@@ -1,0 +1,22 @@
+{
+	"name": "frontend-standard",
+	"version": "0.1",
+	"description": "前端代码开发规范",
+	"main": "index.js",
+	"repository": "https://github.com/meixianming/frontend-standard",
+	"author": "meixianming <3135177405@qq.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"babel-eslint": "^8.2.3",
+		"eslint": "^4.19.1",
+		"eslint-config-standard": "^11.0.0",
+		"eslint-plugin-html": "^4.0.3",
+		"eslint-plugin-import": "^2.11.0",
+		"eslint-plugin-node": "^6.0.1",
+		"eslint-plugin-promise": "^3.7.0",
+		"eslint-plugin-standard": "^3.0.1",
+		"eslint-plugin-vue": "^4.0.0",
+		"stylelint": "^9.2.0",
+		"stylelint-order": "^0.8.1"
+	}
+}
